@@ -1,5 +1,4 @@
 # Tic-Tac-Toe AI
-### CodSoft AI Internship | Task 2
 
 ## 📌 About
 An unbeatable Tic-Tac-Toe AI built with Python (Flask) using the **Minimax algorithm with Alpha-Beta Pruning**.
